@@ -1,0 +1,12 @@
+.dot {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+body{
+	background-color: #99ffcc;
+	align-items: center;
+    justify-content: center;
+}
